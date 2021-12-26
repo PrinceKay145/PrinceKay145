@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrinceKay145
+- 👋 Hi, I’m Ridwan Adebayo
 - 👀 I’m interested in GNU Linux, Data Science, Web Programming 
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on #100daysofcoding with #python
