@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridwan Adebayo
-- 👀 I’m interested in GNU Linux, Data Science, Web Programming 
-- 🌱 I’m currently learning Python, C++
+- 👀 I’m interested in GNU Linux, Data Science, Backend Development 
+- 🌱 ALways learning Python, Sql, Django
 - 💞️ I’m looking to collaborate on #100daysofcoding with #python
 - 📫 How to reach me Twitter - https://twitter.com/Princekay145, Whatsapp - +79254105313. Hotline - +79254105313
 
