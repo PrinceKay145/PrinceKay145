@@ -3,7 +3,7 @@
 - 🌱 ALways learning Python, Sql, Django
 - 💞️ I’m looking to collaborate on #100daysofcoding with #python
 
- 📫 How to reach me 
+# 📫 How to reach me 
 - Twitter - https://twitter.com/Princekay145, 
 - LinkedIn- www.linkedin.com/in/ridwan-adebayo-0443a2231
 - Telegram - PrinceKay
