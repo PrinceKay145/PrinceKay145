@@ -6,7 +6,7 @@
 # 📫 How to reach me 
 - Twitter - https://twitter.com/Princekay145, 
 - LinkedIn- www.linkedin.com/in/ridwan-adebayo-0443a2231
-- Telegram - PrinceKay
+- Telegram - https://t.me/PrinceKay145
 
 <!---
 PrinceKay145/PrinceKay145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
