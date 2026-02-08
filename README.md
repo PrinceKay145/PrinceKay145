@@ -16,4 +16,4 @@ Audit portfolio, findings, and security research across DeFi protocols.
 
 ---
 
-·[Telegram](https://t.me/PrinceKay) · [LinkedIn](https://www.linkedin.com/in/princekay145/) · [Twitter](https://twitter.com/Princekay145) · [Google Scholar](LINK)
+[Telegram](https://t.me/PrinceKay) · [LinkedIn](https://www.linkedin.com/in/princekay145/) · [Twitter](https://twitter.com/Princekay145) · [Google Scholar](LINK)
