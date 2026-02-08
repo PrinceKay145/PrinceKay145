@@ -1,14 +1,19 @@
-- 👋 Hi, I’m Ridwan Adebayo
-- 👀 I’m interested in GNU Linux, Data Science, Backend Development 
-- 🌱 ALways learning Python, Sql, Django
-- 💞️ I’m looking to collaborate on #100daysofcoding with #python
+# Ridwan Adebayo
 
-# 📫 How to reach me 
-- Twitter - https://twitter.com/Princekay145, 
-- LinkedIn- www.linkedin.com/in/ridwan-adebayo-0443a2231
-- Telegram - https://t.me/PrinceKay145
+ML Engineer and Smart Contract Security Researcher.
 
-<!---
-PrinceKay145/PrinceKay145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MSc Data Science — MISIS (5.0 GPA) · 2 publications · 17+ audit findings
+
+---
+
+### [`/ml`](https://github.com/PrinceKay145/ml) — AI / ML / Data Science
+
+Research, projects, and publications in machine learning, NLP, and LLM fine-tuning.
+
+### [`/sr`](https://github.com/PrinceKay145/sr) — Smart Contract Security
+
+Audit portfolio, findings, and security research across DeFi protocols.
+
+---
+
+·[Telegram](https://t.me/PrinceKay) · [LinkedIn](https://www.linkedin.com/in/princekay145/) · [Twitter](https://twitter.com/Princekay145) · [Google Scholar](LINK)
